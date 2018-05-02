@@ -5,6 +5,4 @@ The coin rating is taken from Coinmarketcap, but the rest of the information is 
 
 ## Examples
 
-![](https://istomin.im/gc/CC_BB_01.png)
-
-![](https://istomin.im/gc/CC_BB_02.png)
+![](https://istomin.im/gc/CC_BB.png)
